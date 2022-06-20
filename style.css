@@ -1,0 +1,245 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #f2f4f6;
+  background-image: url("img/hero-bg.jpg");
+  background-repeat: no-repeat;
+  border: #288be6 solid 2px;
+}
+
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.page-header {
+  margin: 0 0 160px;
+  padding: 32px 0 32px;
+  font-size: 16px;
+}
+
+.page-header .container,
+.page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}
+
+.page-header a {
+  margin-left: 56px;
+  color: #288be6;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.rs img{
+  max-width: 10%;
+  max-height: 10%;
+}
+.header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-header.svg");
+}
+
+.header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-header.svg");
+}
+
+.hero-image {
+  margin-bottom: 620px;
+  text-align: center;
+}
+
+.hero-image .container {
+  max-width: 1408px;
+  text-align: center;
+}
+
+.heading {
+  margin: 0 0 16px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 150px;
+  line-height: 96px;
+  font-weight: 500;
+}
+
+.hero-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.intro {
+  margin: 0 0 40px;
+}
+
+.subheading {
+  margin: 0 0 56px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.user-image {
+  margin: 0 0 32px;
+  text-align: center;
+}
+
+.intro h3,
+.portfolio h3 {
+  text-align: center;
+  margin: 0 0 12px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.intro p {
+  margin: 0 0 32px;
+}
+
+.skills-list {
+  margin: 0;
+  padding: 0;
+}
+
+.skills-list dt {
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.skill-html {
+  padding-left: 32px;
+  background-image: url("img/icon-html.svg");
+}
+
+.skill-css {
+  padding-left: 32px;
+  background-image: url("img/icon-css.svg");
+}
+
+.skill-git img {
+  max-width: 4%;
+  max-height: 4%;
+}
+
+.skill-figma img {
+  max-width: 3%;
+  max-height: 3%;
+}
+.skill-js img {
+  max-width: 4%;
+  max-height: 4%;
+}
+.skill-github img {
+  max-width: 4%;
+  max-height: 4%;
+}
+
+.level {
+  margin: 4px 0 16px;
+  padding: 0;
+  height: 14px;
+  font-size: 0;
+  background-color: #ffffff;
+  border: 1px solid #86c3fa;
+  border-radius: 8px;
+}
+
+.level div {
+  margin: 1px;
+  height: 12px;
+  background-color: #288be6;
+  border-radius: 6px;
+}
+
+.portfolio {
+  margin: 0 0 120px;
+}
+
+.projects {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.projects li {
+  margin: 0 0 80px;
+}
+
+.project-image {
+  margin: 0 0 24px;
+  text-align: center;
+}
+
+.projects p {
+  margin: 0 0 24px;
+}
+
+.button {
+  padding: 15px 40px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #288be6;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 25px;
+}
+.button:hover {
+  background-color: blue;
+  color: magenta;
+}
+
+.page-footer {
+  padding: 40px 0;
+  background-color: #00417d;
+}
+
+.page-footer a {
+  margin-left: 56px;
+  color: #ffffff;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.footer-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-footer.svg");
+}
+
+.footer-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-footer.svg");
+}
+
+.portfolio {
+  text-align: center;
+}
+
+.my__fist__saite {
+  background-color: rgb(200, 245, 245);
+  max-width: 50%;
+  margin: 0 auto;
+  border: #011e39 solid 3px;
+  padding: 5px;
+  border-radius: 50px;
+}
+
+.my__fist__saite p {
+  font-size: 35px;
+  margin: 15px;
+  font-weight: 700;
+  color: rgb(0, 10, 99);
+}
