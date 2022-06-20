@@ -194,6 +194,7 @@ body {
   color: #ffffff;
   font-size: 20px;
   font-weight: 500;
+  border-radius: 25px;
 }
 .button:hover {
   background-color: blue;
