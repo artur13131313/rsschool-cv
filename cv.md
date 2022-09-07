@@ -17,7 +17,7 @@
 
 ## About Me
 
-> I am a novice Frontend developer, I have been studying for half a year. Open to all offers)))
+> I am a novice Frontend developer, I have been studying for half a year. Open to all offers))
 
 ---
 
